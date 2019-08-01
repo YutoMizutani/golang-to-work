@@ -1,5 +1,7 @@
 # golang-to-work
 
+<img width="628" alt="screenshot 286" src="https://user-images.githubusercontent.com/22558921/62297933-018efa00-b4ad-11e9-980f-06f269bfa49b.png">
+
 出勤，退勤時間を自動で Slack に通知するツールです。
 [*Hammerspoon*](https://github.com/Hammerspoon/hammerspoon) を利用し，特定の Wi-Fi に接続 / 切断した際の時刻を SlackBot を利用し投稿する一連の設定を行います。
 
